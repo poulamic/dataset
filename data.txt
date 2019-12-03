@@ -1,5 +1,4 @@
-﻿{
-    "Sheet 1 - game-of-thones-deaths": [
+[
         {
             "Allegiance": "Night's Watch",
             "Death No.": "1",
@@ -24465,4 +24464,3 @@
             "Season": "8"
         }
     ]
-}
